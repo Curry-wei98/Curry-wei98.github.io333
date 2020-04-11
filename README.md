@@ -6,9 +6,8 @@
 
 ## 个人作品地址
 
-##[捷径社区](https://sharecuts.cn/user/46zGwZxzZe)
-##[捷径盒](https://jiejinghe.com/users/5490971835)
+[捷径社区](https://sharecuts.cn/user/46zGwZxzZe)
+[捷径盒](https://jiejinghe.com/users/5490971835)
 
-
-# 请我喝杯咖啡吧(Donate)
-![Donate](wechat photo_20200412044725.jpg)
+# 请我喝杯咖啡(Donate）
+![Donate](WeChatReward-Donate.jpg)
