@@ -10,4 +10,4 @@
 [捷径盒](https://jiejinghe.com/users/5490971835)
 
 # 请我喝杯咖啡(Donate）
-![Donate](WeChatReward-Donate.jpg)
+![Donate](WeChatReward-Donate.jpg.jpg)
