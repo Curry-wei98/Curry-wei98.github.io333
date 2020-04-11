@@ -1,10 +1,6 @@
-# HANUMAN Jekyll Theme
+#  欢迎来到熊猫科技站官方Blog
 
-[![Build Status](https://travis-ci.org/samanyougarg/hanuman.svg?branch=master)](https://travis-ci.org/samanyougarg/hanuman)
-
-Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
-
-It is built using the open source [AMP Start framework](https://www.ampstart.com/) and can be customized as per your requirements.
+[博客地址](https://curry-wei98.github.io/#content)
 
 <a href="https://www.buymeacoffee.com/samanyougarg"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" target="_blank"></a>
 
