@@ -1,4 +1,4 @@
-#  欢迎来到熊猫科技站官方Blog
+#  欢迎来到熊猫科技站官方Github
 
 [博客地址](https://curry-wei98.github.io/#content)
 
