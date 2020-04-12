@@ -47,7 +47,7 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
+username: Curry-wei98 #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
